@@ -1,4 +1,5 @@
 Lecture 2: Foundations of Machine Learning
+b
 
 Supervised learning - build model for predicting, and supply output based on inputs
 Unsupervised learning - input but no provided output (clustering)
@@ -32,13 +33,13 @@ How to estimate $f$
 Good fitting, over-fitting, or under-fitting
 - Tradeoff between flexibility and MSE
 
-Bias-Variance Trade-Off
+Bias-Variance Trade-Off (No free lunch)
 
 We can expand the reducible error to the variance and bias of $\hat f(x_0)$
 
 Variance: $E( \hat f (x_0) - E[ \hat f (x_0)] )^2$
 Bias: $(E[\hat f(x_0)] - f(x_0))^2$
 
-
+$\rightarrow$ We want some model with low variance and low bias
 
 

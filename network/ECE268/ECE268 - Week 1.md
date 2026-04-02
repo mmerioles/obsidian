@@ -19,5 +19,6 @@ Security - the **state** of well-being of information and infrastructure
 Components - Confidentiality, Authenticity, Integrity, Availability
 Threat - potential violation of security
 Attack - active adversary (requires intent)
-
+Attack on Confidentiality
+- Unauthorized access, sniffers, illicit copying
 

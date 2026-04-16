@@ -1,0 +1,4 @@
+- [ ] Watch ECE228 Review Linear Algebra Review video
+- [ ] Watch ECE228 Review ODE video
+- [ ] ECE228 HW 1 ( due Wed Apr 22 11:59PM)
+- [x] ECE268 Lab 1 ( due Wed Apr 15 11:59PM)

@@ -1,6 +1,4 @@
 
-Lecture 1
-
 Office hours  Tues 9am-11am FAH4502
 Book - understanding cryptography for students and practitioners
 
@@ -9,8 +7,6 @@ Security model - attack model, vulnerabilities, root of trust (key)
 Don't rely on obscurity
 
 ---
-
-Lecture 2
 
 Security in LLMs 
 Key Generation and Distribution

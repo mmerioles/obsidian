@@ -39,3 +39,15 @@ AES Overview
 - Key sizes of 128, 192, or 256 bits
 - Byte Substitution Layer
 	- Identical, nonlinear, bijective
+- ShiftRows Sublayer
+	- Permutates rows for diffusion
+- MixColumn Sublayer
+	- Linear transformation which mixes each column of state matrix
+- Key Addition Layer
+	- Subkeys derived recursively from original key
+	- Each round is 1 subkey, plus 1 subkey at beginning of AES
+	- Key whitening $subkeys = rounds + 1$
+- Efficient in computation in software
+- Security
+	- Brute force and analytical attacks not really possible
+	- Side-channel attack - several published, requires additional information 

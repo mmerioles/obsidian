@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da1c0334f5b69701",
+            "id": "9ff016f8b667f5a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "ECE268/ECE268 - Week 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "ECE268 - Week 4"
             }
           }
         ]
@@ -201,12 +201,13 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "da1c0334f5b69701",
+  "active": "9ff016f8b667f5a1",
   "lastOpenFiles": [
-    "Do things the right way.md",
-    "todo.md",
     "ECE268/ECE268 - Week 3.md",
+    "ECE268/ECE268 - Week 4.md",
+    "todo.md",
     "ECE228/ECE228 - Week 3.md",
+    "Do things the right way.md",
     "ECE228/ECE228 - Week 2.md",
     "ECE228/ECE228 - Week 1.md",
     "ECE268/ECE268 - Week 2.md",

@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ff016f8b667f5a1",
+            "id": "e40623df3142c7f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE268/ECE268 - Week 4.md",
+                "file": "ECE228/ECE228 - Week 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ECE268 - Week 4"
+              "title": "ECE228 - Week 5"
+            }
+          },
+          {
+            "id": "bacce5190eb7fa88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE228/ECE228 - Week 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ECE228 - Week 5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,12 +216,15 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "9ff016f8b667f5a1",
+  "active": "bacce5190eb7fa88",
   "lastOpenFiles": [
-    "ECE268/ECE268 - Week 3.md",
     "ECE268/ECE268 - Week 4.md",
-    "todo.md",
+    "ECE268/ECE268 - Week 5.md",
+    "ECE228/ECE228 - Week 4.md",
+    "ECE228/ECE228 - Week 5.md",
     "ECE228/ECE228 - Week 3.md",
+    "ECE268/ECE268 - Week 3.md",
+    "todo.md",
     "Do things the right way.md",
     "ECE228/ECE228 - Week 2.md",
     "ECE228/ECE228 - Week 1.md",

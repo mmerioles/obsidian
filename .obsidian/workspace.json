@@ -1,56 +1,37 @@
 {
   "main": {
-    "id": "1d1bbd9f14742cea",
+    "id": "0e76433b1514addb",
     "type": "split",
     "children": [
       {
-        "id": "b81835503421570d",
+        "id": "f93ab3bdb38cb139",
         "type": "tabs",
         "children": [
           {
-            "id": "e40623df3142c7f6",
+            "id": "12478dc19209c1f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE228/ECE228 - Week 5.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ECE228 - Week 5"
-            }
-          },
-          {
-            "id": "bacce5190eb7fa88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE228/ECE228 - Week 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ECE228 - Week 5"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3a03e0f314d56a90",
+    "id": "fd99dcd9d8e77915",
     "type": "split",
     "children": [
       {
-        "id": "be7fab96de803638",
+        "id": "7fdb0c826bec745b",
         "type": "tabs",
         "children": [
           {
-            "id": "d8f1546f6294f490",
+            "id": "43e8acc709b6ba2c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +44,7 @@
             }
           },
           {
-            "id": "65b2af3c30b9d894",
+            "id": "a7ba1583d288c15e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,27 +61,13 @@
             }
           },
           {
-            "id": "0ddd2181fd2ba414",
+            "id": "16b3e5905af0c6b1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "a2d0dae384f58af1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test document.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Test document"
             }
           }
         ]
@@ -110,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "fc0d46bd4396009b",
+    "id": "3103707c573f30d4",
     "type": "split",
     "children": [
       {
-        "id": "49664b264817303e",
+        "id": "d9f08c264b4c2c9a",
         "type": "tabs",
         "children": [
           {
-            "id": "bb5ee652e71ab596",
+            "id": "c52f561f0eda73ad",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-03-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-03-31"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "c28652a8d2bc396f",
+            "id": "25a6b9949d32814f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-03-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-03-31"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "6735b6e84f3475a4",
+            "id": "3b60e69c68d01add",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,7 +131,7 @@
             }
           },
           {
-            "id": "a1bae087dfd4fb48",
+            "id": "0c0fb5732ef20c30",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,18 +145,17 @@
             }
           },
           {
-            "id": "eab177ec2389fccf",
+            "id": "bd00c8985fbf8794",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-03-31.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-31"
+              "title": "Outline"
             }
           }
         ]
@@ -210,39 +174,46 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "obsidian-livesync:P2P Status": false,
       "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:P2P Replicator": false,
       "obsidian-livesync:Show Log": false,
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "bacce5190eb7fa88",
+  "active": "43e8acc709b6ba2c",
   "lastOpenFiles": [
-    "ECE268/ECE268 - Week 4.md",
-    "ECE268/ECE268 - Week 5.md",
-    "ECE228/ECE228 - Week 4.md",
-    "ECE228/ECE228 - Week 5.md",
-    "ECE228/ECE228 - Week 3.md",
-    "ECE268/ECE268 - Week 3.md",
+    "network/todo.md",
+    "linux/files and folders.md",
+    "linux/bash.md",
+    "mus/ableton notes.md",
+    "netdev/Terraform.md",
     "todo.md",
-    "Do things the right way.md",
-    "ECE228/ECE228 - Week 2.md",
-    "ECE228/ECE228 - Week 1.md",
-    "ECE268/ECE268 - Week 2.md",
-    "Untitled.canvas",
-    "ECE268/ECE268 - Week 1.md",
-    "ECE268",
-    "ECE228",
-    "Test document.md",
-    "2026-03-31.md",
-    "flag_fetch.md",
-    "This is another test doc.md",
-    "Untitled.base",
-    "Welcome.md",
-    "flag_rebuild.md",
-    "Untitled 1.base",
-    "Untitled 3.canvas",
-    "Untitled 1.canvas",
-    "Untitled 2.canvas"
+    "t14x.md",
+    "linux/system and networking.md",
+    "!archive/ECE268/ECE268 - Week 7.md",
+    "!archive/ECE268/ECE268 - Week 6.md",
+    "!archive/ECE268/ECE268 - Week 5.md",
+    "!archive/ECE268/ECE268 - Week 4.md",
+    "netdev",
+    "!archive/ECE268/ECE268 - Week 3.md",
+    "int.md",
+    "mus",
+    "!archive/ECE268/ECE268 - Week 2.md",
+    "!archive/ECE268/ECE268 - Week 1.md",
+    "linux",
+    "!archive/ECE228/ECE228 - Week 7.md",
+    "!archive/ECE228/ECE228 - Week 6.md",
+    "!archive/ECE228/ECE228 - Week 4.md",
+    "!archive/ECE228/ECE228 - Week 3.md",
+    "!archive/ECE228/ECE228 - Week 2.md",
+    "!archive/ECE228/ECE228 - Week 1.md",
+    "!archive/CCNA/VLSM.md",
+    "!archive/ECE228/ECE228 - Week 5.md",
+    "!archive/ECE268",
+    "!archive/CCNA/TCP vs UDP.md",
+    "!archive/CCNA/FHRP.md",
+    "!archive/ECE228",
+    "!archive/CCNA",
+    "!archive"
   ]
 }

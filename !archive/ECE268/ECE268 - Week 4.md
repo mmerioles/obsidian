@@ -26,7 +26,7 @@ Meet in the middle attack
 - Phase I: left encryption is brute-forced for all $k_{I,j}$ and stored $2^k$
 - Phase II: right encryption is brute-forced and checked against the stored keys
 
-Public Key Cryptography (Asymmetric)
+Public Key Cryptography (Asyymmetric)
 - Symmetric algorithms are secure but hard to transport the secret key
 - "Good old mailbox" idea - everyone can drop a message, only owner can open
 - Bob has private key, Alice has public key (announced from Bob)
